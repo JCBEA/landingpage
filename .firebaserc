@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "quanlab-87573": {
+      "hosting": {
+        "landingpage": [
+          "quanlab-87573"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "quanlab-87573"
+  }
+}
